@@ -23,6 +23,9 @@ LLM 플랫폼, Agent 시스템, Computer Vision, 운영형 AI 파이프라인을
 
 ## Selected Work
 
+- [Production AI Performance Lab](https://github.com/Lee-jun-young98/production-ai-performance-lab)  
+  RAG pipeline latency, reranker batching, length bucketing, TTFT, synthetic benchmark 분석을 정리한 production-style AI 성능 최적화 lab입니다.
+
 - [Agent RAG Evaluation Lab](https://github.com/Lee-jun-young98/agent-rag-evaluation-lab)  
   codebase RAG, agent routing, mock PR review, retrieval evaluation, API 설계를 작은 예제로 정리한 Agent/RAG 실습 lab입니다.
 
