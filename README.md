@@ -22,6 +22,20 @@ I enjoy turning research ideas into measurable improvements in real-world system
 - High-performance model serving benchmarks
 - Vision AI systems that move from experiments to usable products
 
+## Selected Work
+
+- [AI Portfolio Blog](https://lee-jun-young98.github.io)  
+  Notes on LLM platforms, agent systems, evaluation, observability, and production AI.
+
+- [LangGraph / LangChain / LangSmith Study Notes](https://lee-jun-young98.github.io/libraries/)  
+  Practical notes on durable agents, tracing, evals, memory, streaming, and guardrails.
+
+- [LLM SFT Training Platform](https://lee-jun-young98.github.io/10_projects/LLM-SFT-Training-Platform/)  
+  Reproducible SFT pipeline with Hydra-based configuration, trainer structure, evaluation, and artifact management.
+
+- [Vision AI Projects](https://lee-jun-young98.github.io/10_projects/)  
+  Medical image AI and edge vision projects from earlier deep learning work.
+
 ## Portfolio
 
 - Blog & portfolio: [Lee-jun-young98.github.io](https://lee-jun-young98.github.io)
