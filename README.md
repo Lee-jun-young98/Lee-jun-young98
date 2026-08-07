@@ -24,10 +24,10 @@ LLM 플랫폼, Agent 시스템, Computer Vision, 운영형 AI 파이프라인을
 ## Selected Work
 
 - [Agent RAG Evaluation Lab](https://github.com/Lee-jun-young98/agent-rag-evaluation-lab)  
-  codebase RAG, agent routing, mock PR review, retrieval evaluation, API 설계를 public-safe하게 재현한 lab입니다.
+  codebase RAG, agent routing, mock PR review, retrieval evaluation, API 설계를 작은 예제로 정리한 Agent/RAG 실습 lab입니다.
 
 - [LLM SFT Training Lab](https://github.com/Lee-jun-young98/llm-sft-training-lab)  
-  config 기반 전처리, toy QA training, evaluation, artifact 저장 흐름을 경량화한 public-safe 학습 파이프라인 lab입니다.
+  config 기반 전처리, toy QA training, evaluation, artifact 저장 흐름을 개인 공부용으로 경량화한 학습 파이프라인 lab입니다.
 
 - [AI Portfolio Blog](https://lee-jun-young98.github.io)  
   LLM platform, agent system, evaluation, observability, production AI engineering 노트를 정리한 포트폴리오입니다.
