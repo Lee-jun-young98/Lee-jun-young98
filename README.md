@@ -24,6 +24,9 @@ I enjoy turning research ideas into measurable improvements in real-world system
 
 ## Selected Work
 
+- [Agent RAG Evaluation Lab](https://github.com/Lee-jun-young98/agent-rag-evaluation-lab)  
+  Public-safe lab for codebase RAG, agent routing, mock PR review, retrieval evaluation, and API design.
+
 - [AI Portfolio Blog](https://lee-jun-young98.github.io)  
   Notes on LLM platforms, agent systems, evaluation, observability, and production AI.
 
