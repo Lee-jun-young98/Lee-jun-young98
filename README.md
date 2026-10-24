@@ -21,17 +21,11 @@
 - LangGraph·ReAct 기반 실행 흐름과 코드 검색·저장소 도구 연동
 - 사용자 승인(HITL), 세션 상태 관리, 도구 반복 호출 한도 적용
 
-## 공개 프로젝트와 기록
+## 프로젝트와 학습 기록
 
-실무에서 다룬 주제를 개인 학습용 예제와 기술 노트로 정리합니다. 아래 저장소는 공개용 실습 프로젝트입니다.
-
-| 프로젝트 | 다루는 내용 |
-| --- | --- |
-| [Agent RAG Evaluation Lab](https://github.com/Lee-jun-young98/agent-rag-evaluation-lab) | 코드 검색, 라우팅, 모의 PR 리뷰, 검색 평가를 작은 예제로 실습 |
-| [Production AI Performance Lab](https://github.com/Lee-jun-young98/production-ai-performance-lab) | 합성 벤치마크로 RAG 지연 시간, 배칭, TTFT 분석 |
-| [LLM SFT Training Lab](https://github.com/Lee-jun-young98/llm-sft-training-lab) | 경량 QA 예제로 전처리·학습·평가·결과 저장 흐름 학습 |
-
-[기술 블로그 · 포트폴리오](https://lee-jun-young98.github.io) · [Agent 라이브러리 학습 노트](https://lee-jun-young98.github.io/libraries/)
+- [Fire Detection](https://github.com/Lee-jun-young98/Fire_detection) — 카메라 영상의 화재·연기 탐지를 공부한 프로젝트입니다. 데이터 정리와 YOLO 학습·ONNX 추론 코드를 남겼습니다.
+- [MLflow Study](https://github.com/Lee-jun-young98/mlflow_study) — Iris 예제로 실험 지표와 모델을 기록하고 조회하는 방법을 익힌 노트북입니다.
+- [기술 블로그 · 포트폴리오](https://lee-jun-young98.github.io) — 개발 기록과 논문·라이브러리 학습 노트를 정리합니다.
 
 ## 관심과 학습 방향
 
