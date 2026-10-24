@@ -11,7 +11,7 @@
 - **AI Platform** — LLM·Embedding·Reranker의 학습·서빙 환경과 LoRA 학습·평가·모델 등록 파이프라인을 개발하고 GPU 인프라를 운영했습니다.
 - **운영 안정성** — 학습 코드와 Kubernetes Job/Pod 상태를 함께 확인하는 상태 판정 로직을 구현하고, 서비스 로그와 사용자 피드백으로 검색·응답 흐름을 개선했습니다.
 
-## 현재 만들고 있는 것
+## 실무에서 진행 중인 작업
 
 **LLM Agent · 설계 및 구현 진행 중**
 
@@ -23,8 +23,8 @@
 
 ## 프로젝트와 학습 기록
 
-- [Fire Detection](https://github.com/Lee-jun-young98/Fire_detection) — 카메라 영상의 화재·연기 탐지를 공부한 프로젝트입니다. 데이터 정리와 YOLO 학습·ONNX 추론 코드를 남겼습니다.
-- [MLflow Study](https://github.com/Lee-jun-young98/mlflow_study) — Iris 예제로 실험 지표와 모델을 기록하고 조회하는 방법을 익힌 노트북입니다.
+- [Fire Detection](https://github.com/Lee-jun-young98/Fire_detection) — 화재 탐지 학습 기록입니다. 데이터 처리, YOLOv5 실행·모델 형식 변환 기록과 OpenCV DNN 추론 코드가 있습니다.
+- [MLflow Study](https://github.com/Lee-jun-young98/mlflow_study) — Iris 분류 예제로 모델·학습 정확도를 기록하고 실험 정보를 조회한 노트북입니다.
 - [기술 블로그 · 포트폴리오](https://lee-jun-young98.github.io) — 개발 기록과 논문·라이브러리 학습 노트를 정리합니다.
 
 ## 관심과 학습 방향
