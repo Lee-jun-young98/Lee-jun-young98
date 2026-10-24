@@ -24,7 +24,7 @@
 ## 프로젝트와 학습 기록
 
 - [Fire Detection](https://github.com/Lee-jun-young98/Fire_detection) — 화재 탐지 학습 기록입니다. 데이터 처리, YOLOv5 실행·모델 형식 변환 기록과 OpenCV DNN 추론 코드가 있습니다.
-- [MLflow Study](https://github.com/Lee-jun-young98/mlflow_study) — Iris 분류 예제로 모델·학습 정확도를 기록하고 실험 정보를 조회한 노트북입니다.
+- [MLflow Study](https://github.com/Lee-jun-young98/mlflow_study) — Iris 분류 예제로 train/test 정확도를 따로 기록하고, test 정확도로 체크포인트를 비교하는 노트북입니다.
 - [기술 블로그 · 포트폴리오](https://lee-jun-young98.github.io) — 개발 기록과 논문·라이브러리 학습 노트를 정리합니다.
 
 ## 관심과 학습 방향
